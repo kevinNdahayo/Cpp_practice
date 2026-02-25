@@ -6,3 +6,6 @@
 #include <cmath>
 
 using namespace std;
+
+// Classes
+#include "Vector.h";
